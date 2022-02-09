@@ -1,6 +1,6 @@
 {
   "name": "@ln1778/react-native-udp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native UDP socket API for Android & iOS",
   "homepage": "https://github.com/ln1778/react-native-udp",
   "main": "src/index.js",
