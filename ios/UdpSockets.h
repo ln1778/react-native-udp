@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <Availability.h>
-#import "GCDAsyncUdpSocket.h"
+#import <CocoaAsyncSocket/GCDAsyncUdpSocket.h>
 #import "UdpSocketClient.h"
 #import <React/RCTBridgeModule.h>
 #import <React/RCTBridge.h>
